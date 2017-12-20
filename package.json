@@ -1,0 +1,22 @@
+{
+  "name": "feather",
+  "version": "1.0.0",
+  "description": "learning feather js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "piyush koradiya",
+  "license": "ISC",
+  "dependencies": {
+    "@feathersjs/errors": "^3.2.0",
+    "@feathersjs/express": "^1.1.2",
+    "@feathersjs/feathers": "^3.0.2",
+    "@feathersjs/socketio": "^3.0.1",
+    "body-parser": "^1.18.2",
+    "feathers-memory": "^2.1.0",
+    "feathers-mongoose": "^6.0.0",
+    "mongoose": "^4.13.7",
+    "nodemon": "^1.13.3"
+  }
+}
